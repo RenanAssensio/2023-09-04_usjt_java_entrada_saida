@@ -17,5 +17,6 @@ public class SomaDoisNumeros{
      resultado = primeiroOperando + segundoOperando;
 
      //saída
+     System.out.print(resultado);
     }
 }
